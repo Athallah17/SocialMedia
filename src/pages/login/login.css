@@ -1,0 +1,218 @@
+.login-page{
+    background-color: #d9d9d9;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.login-page .div {
+    background-color: #d9d9d9;
+    height: 1024px;
+    overflow: hidden;
+    position: relative;
+    width: 1440px;
+  }
+
+.login-page .overlap {
+    height: 842px;
+    left: 82px;
+    position: absolute;
+    top: 72px;
+    width: 1276px;
+  }
+
+  .login-page .rectangle {
+    background-color: #fcfcfc;
+    border: 13px solid;
+    border-color: #291142;
+    border-radius: 81px;
+    height: 826px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1276px;
+  }
+
+  .login-page .text-wrapper {
+    color: #000000;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 45px;
+    font-weight: 700;
+    left: 906px;
+    letter-spacing: 4.95px;
+    line-height: normal;
+    position: absolute;
+    top: 101px;
+    width: 207px;
+  }
+
+  .login-page .bar {
+    background-color: #cdc7c7;
+    border-radius: 18px;
+    height: 44px;
+    left: 759px;
+    position: absolute;
+    top: 263px;
+    width: 480px;
+  }
+
+  .login-page .text-wrapper-2 {
+    color: #000000;
+    font-family: "Inter-ExtraLight", Helvetica;
+    font-size: 16px;
+    font-weight: 200;
+    left: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 13px;
+    width: 327px;
+  }
+
+  .login-page .div-wrapper {
+    background-color: #cdc7c7;
+    border-radius: 18px;
+    height: 44px;
+    left: 759px;
+    position: absolute;
+    top: 331px;
+    width: 480px;
+  }
+
+  .login-page .bar-2 {
+    background-color: #291142;
+    border-radius: 18px;
+    height: 44px;
+    left: 759px;
+    position: absolute;
+    top: 418px;
+    width: 480px;
+  }
+
+  .login-page .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 205px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 11px;
+    width: 70px;
+  }
+  
+  .login-page .bar-3 {
+    background-color: #5b888b;
+    border-radius: 18px;
+    height: 44px;
+    left: 846px;
+    position: absolute;
+    top: 543px;
+    width: 312px;
+  }
+
+  .login-page .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 11px;
+    width: 245px;
+  }
+
+  .login-page .text-wrapper-5 {
+    color: #2360ff;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 933px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 478px;
+    width: 144px;
+  }
+
+  .login-page .text-wrapper-6 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 930px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 504px;
+    width: 144px;
+  }
+  
+  .login-page .img {
+    height: 822px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 743px;
+  }
+  
+  .login-page .logo {
+    height: 111px;
+    left: 113px;
+    position: absolute;
+    top: 135px;
+    width: 304px;
+  }
+  
+  .login-page .overlap-group {
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 838px;
+    left: -67px;
+    position: relative;
+    top: -65px;
+    width: 740px;
+  }
+  .login-page .twitter-outlined {
+    height: 189px;
+    left: 0px;
+    position: absolute;
+    top: 55px;
+    width: 178px;
+  }
+
+  .login-page .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 194px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 755px;
+    width: 425px;
+  }
+  
+  .login-page .burung-biru {
+    color: #ffffff;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 74px;
+    font-weight: 700;
+    left: 252px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 128px;
+    white-space: nowrap;
+    width: 391px;
+  }
+  
