@@ -1,0 +1,207 @@
+.register-page {
+    background-color: #d9d9d9;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .register-page .div {
+    background-color: #d9d9d9;
+    height: 1024px;
+    overflow: hidden;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .register-page .overlap {
+    height: 842px;
+    left: 82px;
+    position: absolute;
+    top: 72px;
+    width: 1276px;
+  }
+  
+  .register-page .rectangle {
+    background-color: #fcfcfc;
+    border: 13px solid;
+    border-color: #291142;
+    border-radius: 81px;
+    height: 826px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1276px;
+  }
+  
+  .register-page .text-wrapper {
+    color: #000000;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 45px;
+    font-weight: 700;
+    left: 873px;
+    letter-spacing: 4.95px;
+    line-height: normal;
+    position: absolute;
+    top: 53px;
+    width: 273px;
+  }
+  
+  .register-page .bar {
+    background-color: #cdc7c7;
+    border-radius: 18px;
+    height: 44px;
+    left: 765px;
+    position: absolute;
+    top: 372px;
+    width: 480px;
+  }
+  
+  .register-page .text-wrapper-2 {
+    color: #000000;
+    font-family: "Inter-ExtraLight", Helvetica;
+    font-size: 16px;
+    font-weight: 200;
+    left: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 13px;
+    width: 327px;
+  }
+  
+  .register-page .div-wrapper {
+    background-color: #cdc7c7;
+    border-radius: 18px;
+    height: 44px;
+    left: 765px;
+    position: absolute;
+    top: 431px;
+    width: 480px;
+  }
+  
+  .register-page .bar-2 {
+    background-color: #cdc7c7;
+    border-radius: 18px;
+    height: 44px;
+    left: 765px;
+    position: absolute;
+    top: 190px;
+    width: 480px;
+  }
+  
+  .register-page .bar-3 {
+    background-color: #cdc7c7;
+    border-radius: 18px;
+    height: 44px;
+    left: 765px;
+    position: absolute;
+    top: 243px;
+    width: 480px;
+  }
+  
+  .register-page .bar-4 {
+    background-color: #cdc7c7;
+    border-radius: 18px;
+    height: 44px;
+    left: 765px;
+    position: absolute;
+    top: 307px;
+    width: 480px;
+  }
+  
+  .register-page .bar-5 {
+    background-color: #cdc7c7;
+    border-radius: 18px;
+    height: 44px;
+    left: 765px;
+    position: absolute;
+    top: 502px;
+    width: 480px;
+  }
+  
+  .register-page .bar-6 {
+    background-color: #5b888b;
+    border-radius: 18px;
+    height: 44px;
+    left: 765px;
+    position: absolute;
+    top: 581px;
+    width: 480px;
+  }
+  
+  .register-page .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 182px;
+    letter-spacing: 5.28px;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 11px;
+    width: 116px;
+  }
+  
+  .register-page .logo {
+    height: 111px;
+    left: 113px;
+    position: absolute;
+    top: 135px;
+    width: 304px;
+  }
+  
+  .register-page .overlap-group {
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 838px;
+    left: -67px;
+    position: relative;
+    top: -65px;
+    width: 740px;
+  }
+  
+  .register-page .twitter-outlined {
+    height: 189px;
+    left: 69px;
+    position: absolute;
+    top: 129px;
+    width: 178px;
+  }
+  
+  .register-page .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 194px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 755px;
+    width: 425px;
+  }
+  
+  .register-page .burung-biru {
+    color: #ffffff;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 74px;
+    font-weight: 700;
+    left: 252px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 128px;
+    white-space: nowrap;
+    width: 391px;
+  }
+  
+  .register-page .img {
+    height: 826px;
+    left: -781px;
+    position: absolute;
+    top: 1648px;
+    width: 747px;
+  }
+  
