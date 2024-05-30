@@ -1,0 +1,149 @@
+.flexWrapper{
+    display:flex;
+    justify-content: space-between;
+    padding-right: 50px;
+  }
+  
+  
+  .coverRight {
+    flex: 1;
+  
+  }
+  
+  .cover1 {
+    height: 320px;
+    position: relative;
+  }
+  
+  .coverImg {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+  }
+  
+  .coverUserImg {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    top: 150px;
+    border: 3px solid white;
+  }
+  
+  .coverInfo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .coverInfoName {
+    font-size: 24px;
+  }
+  
+  .coverInfoDesc {
+    font-weight: 300;
+  }
+  
+  .coverRightBottom {
+    display: flex;
+  }
+  
+  .profile {
+    width: 100%;
+    border-radius: 20px;
+    -webkit-box-shadow: 0px 0px 16px -8px rgba(0, 0, 0, 0.68);
+    box-shadow: 0px 0px 16px -8px rgba(0, 0, 0, 0.68);
+    margin: 50px 0;
+    
+    /* padding: 0 50px; */
+    margin-left: 500px;
+    margin-right: 500px;
+  }
+  
+  .profileWrapper {
+    justify-content: center;
+  }
+  
+  /* .pageWrapper{
+   
+    justify-content: center;
+    /* padding: 0 50px; */
+    /* margin-left: 500px;
+    margin-right: 500px; */
+  /* } */ 
+  
+  .profileTop {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;     
+    width: 100%; /* Ensure .profileTop takes up the full width of .profileWrapper */
+  }
+  
+  .profileTopLeft {
+    display: flex;
+    align-items: center;
+  }
+  
+  .profileImgCover {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  .profileUsername {
+    font-size: 15px;
+    font-weight: 500;
+    margin: 0 10px;
+  }
+  
+  .profileCenter {
+    margin: 20px 0;
+   /* Ensure children are stacked vertically */
+  }
+  
+  .profileImg {
+    align-items: center;
+    margin-top: 20px;
+    width: 100%;
+    max-height: 500px;
+    object-fit: contain;
+  
+  }
+  
+  .profileBottom {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .profileBottomLeft {
+    display: flex;
+    align-items: center;
+  }
+  
+  .profileIcon {
+    margin-left: 10px;
+  }
+  
+  .profileButton {
+    margin-right: 10px;
+    margin-left: 2px;
+    width: 50px;
+    padding: 0px;
+    border: none;
+    font-size: 15px;
+    cursor: pointer;
+  }
+  
+  .profileCommentText {
+    cursor: pointer;
+    border-bottom: 1px dashed gray;
+    font-size: 15px;
+  }
+  
